@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>gov.nih.nlm.ncbi</groupId>
+  <artifactId>ncbi-eutils</artifactId>
+  <versioning>
+    <release>20131206</release>
+    <versions>
+      <version>20131206</version>
+    </versions>
+    <lastUpdated>20140211103128</lastUpdated>
+  </versioning>
+</metadata>
